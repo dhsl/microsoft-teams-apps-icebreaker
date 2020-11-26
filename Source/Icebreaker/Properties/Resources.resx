@@ -118,83 +118,83 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ChatWithMatchButtonText" xml:space="preserve">
-    <value>Chat with {0}</value>
+    <value>Chat mit {0}</value>
     <comment>Button text to initiate a chat with the person the user has been matched up with</comment>
   </data>
   <data name="ErrorOccured" xml:space="preserve">
-    <value>There was an error while processing request. Retry?</value>
+    <value>Ein Fehler ist aufgetreten. Wiederholen?</value>
     <comment>A generic message that is sent when there is an error occurring</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's most likely because {0} added me to the **{1} Team.**</value>
+    <value>Wenn du das hier lesen kannst, liegt es wahrscheinlich daran, dass {0} mich zum **{1} Team** hinzugefügt hat.</value>
     <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
+    <value>Ich darf dir dabei helfen, dich mehr mit PHATties treffen, indem ich dich jede Woche mit einem zufälligen PHATtie verabrede. Du kannst Freundschaften schließen und mehr über die PHATties lernen. Das nenne ich win-win-*win*.</value>
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
-    <value>**To meet new people, just hang tight. I'll send you an invite soon.**</value>
+    <value>**Warte einfach ab, ich schicke dir bald eine Einladung.**</value>
     <comment>Part 3 of the install message with the name of the installer known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart1" xml:space="preserve">
-    <value>If you're reading this, it's because I was installed to **{0} Team.** </value>
+    <value>Wenn du das hier lesen kannst, liegt es wahrscheinlich daran, dass ich im **{0} Team** hinzugefügt wurde.</value>
     <comment>Install message and also the welcome message when the app installer is not known - {0} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart2" xml:space="preserve">
-    <value>I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It's a win-win-*win* situation.</value>
+    <value>Ich darf dir dabei helfen, dich mehr mit PHATties treffen, indem ich dich jede Woche mit einem zufälligen PHATtie verabrede. Du kannst Freundschaften schließen und mehr über die PHATties lernen. Das nenne ich win-win-*win*.</value>
     <comment>Part 2 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
-    <value>**To meet new people, just hang tight. I'll send you an invite soon.**</value>
+    <value>**Warte einfach ab, ich schicke dir bald eine Einladung.**</value>
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}.</value>
+    <value>Ich bin's wieder, {0} aus {1}. Ein Bot, der dich wöchentlich mit einem anderen PHATtie verabredet. Deine Verabredung diese Woche ist mit **{2}**!</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>Wenn du Bock hast, mach einen Termin. Schau, Leute treffen *ist* einfach!</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
-    <value>You've been matched with {0}.</value>
+    <value>Ich habe dich mit {0} verabredet.</value>
     <comment>The text saying who the user has been matched up with</comment>
   </data>
   <data name="MatchUpCardTitleContent" xml:space="preserve">
-    <value>It's time for a match!</value>
+    <value>Es ist Zeit für eine Verabredung!</value>
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Hey there, looks like we've been matched by {0} this week. It'd be great to meet up for a coffee or a lunch or a call if you've got time.</value>
+    <value>Hey! Sieht aus, als hätte {0} uns diese Woche miteinander verabredet. Ich würde mich über einen Kaffee- oder Mittags-Call mit dir freuen, wenn du die Zeit hast!</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
-    <value>{0} / {1} Meet up</value>
+    <value>{0} / {1} Treffen</value>
     <comment>The title for the Meetup - {0} is the name of the first person that user has been matched with and {1} is the name of the user</comment>
   </data>
   <data name="OptInConfirmation" xml:space="preserve">
-    <value>Welcome back! You've been missed. I've restarted your matches. Have fun!</value>
+    <value>Willkommen zurück! Geil, dass du wieder da bist. Viel Spaß!</value>
     <comment>The confirmation reply that is sent when the user resumes the matches</comment>
   </data>
   <data name="OptOutConfirmation" xml:space="preserve">
-    <value>All set. I've paused your matches. You can turn them back on whenever you like.</value>
+    <value>Alles klar, ich habe die Verabredungen für dich pausiert. Du kannst sie jederzeit wieder anschalten.</value>
     <comment>The confirmation reply that is sent when the user pauses all matches</comment>
   </data>
   <data name="PausePairingsButtonText" xml:space="preserve">
-    <value>Pause all matches</value>
+    <value>Pausieren</value>
     <comment>Button text to pause pairings</comment>
   </data>
   <data name="ProposeMeetupButtonText" xml:space="preserve">
-    <value>Propose meetup</value>
+    <value>Termin vorschlagen</value>
     <comment>Button text to propose the meetup with the match of the user</comment>
   </data>
   <data name="ResumePairingsButtonText" xml:space="preserve">
-    <value>Resume matches</value>
+    <value>Weitermachen</value>
     <comment>Button text to resume pairings</comment>
   </data>
   <data name="SalutationTitleText" xml:space="preserve">
-    <value>Hi there!</value>
+    <value>Hey du!</value>
     <comment>This is the text for the salutation in the adaptive cards when the bot is installed to a team and also when new users are added to the team</comment>
   </data>
   <data name="TakeATourButtonText" xml:space="preserve">
@@ -202,7 +202,7 @@
     <comment>The text for the button which launches a tour when clicked</comment>
   </data>
   <data name="UnrecognizedInput" xml:space="preserve">
-    <value>I'm sorry, but I can't process the incoming message. You can take a tour, though, to learn more about my functionality.</value>
+    <value>Sorry, ich kann keine Nachrichten verstehen. Schau dir aber gern die Tour an.</value>
     <comment>The text for the unrecognized input scenario</comment>
   </data>
   <data name="WelcomeTourTitle" xml:space="preserve">
