@@ -5,10 +5,10 @@
   "id": "d55d08d9-bacb-4567-942f-afd85d632dcc",
   "packageName": "com.microsoft.teams.icebreaker",
   "developer": {
-    "name": "<company name>",
-    "websiteUrl": "<website url>",
-    "privacyUrl": "<privacy url>",
-    "termsOfUseUrl": "<terms of use url>"
+    "name": "PHAT CONSULTING GmbH",
+    "websiteUrl": "https://phatconsulting.de",
+    "privacyUrl": "https://phatconsulting.de",
+    "termsOfUseUrl": "https://phatconsulting.de"
   },
   "icons": {
     "color": "color.png",
@@ -24,7 +24,7 @@
   "accentColor": "#64A2CC",
   "bots": [
     {
-      "botId": "<bot id>",
+      "botId": "ab85d1c0-d152-4c9b-9f9c-4624b06729e9",
       "scopes": [
         "personal",
         "team"
@@ -38,6 +38,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<app domain>"
+    "icebreaker-wrvggygegkedm.azurewebsites.net"
   ]
 }
